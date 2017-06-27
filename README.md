@@ -1,7 +1,7 @@
 # Dreamware test task
 Test  task for Dreamware 
 
-#Technical requirements
+Technical requirements
 AngularJS
 TypeScript
 
